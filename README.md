@@ -7,7 +7,7 @@ A virtual prototype of an autonomous robotic recovery system that demonstrates g
 
 ---
 ## What is it?
-A robot that is programmed to aid in disaster recovery.
+A robot simulation that is programmed to aid in disaster recovery.
 
 ---
 ## Table of contents
