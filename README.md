@@ -28,7 +28,12 @@ I modeled a scene that represents the aftermath of a flood, with models to repre
 
 ---
 ## Installation
-
+1. Download [Coppelia Robotics](https://www.coppeliarobotics.com/downloads)
+2. Open scene.ttt
+3. Press 'run'
+4. Observe flood recovery bot as it navigates through the scene, detecting heat and barriers
+5. Press 'stop' to end the simulation
+ 
 ---
 ## Navigation
 Run the program from 'main.py'. In the terminal:  
