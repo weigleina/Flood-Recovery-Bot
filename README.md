@@ -28,7 +28,7 @@ I modeled a scene that represents the aftermath of a flood, with models to repre
 
 ---
 ## Installation
-1. Download <a href="https://www.coppeliarobotics.com/downloads" target="_blank"></a>
+1. Download <a href="https://www.coppeliarobotics.com/downloads" target="_blank">Coppelia Robotics</a>
 2. Open scene.ttt
 3. Press 'run'
 4. Observe flood recovery bot as it navigates through the scene, detecting heat and barriers
